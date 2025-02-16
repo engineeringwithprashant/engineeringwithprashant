@@ -20,13 +20,13 @@
  
 <div align="center"> 
   <a href="mailto:engineeringwithprashant@gmail.com">
-    <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" />
+    <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"width="50" height="50"  />
   </a>
   <a href="https://www.linkedin.com/in/prashantpant2004/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" target="_blank" />
+    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" target="_blank"width="50" height="50" />
   </a>
   <a href="https://github.com/engineeringwithprashant" target="_blank">
-     <img src="https://img.icons8.com/?size=100&id=TZDxXbuxhj44&format=png&color=000000" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.icons8.com/?size=100&id=TZDxXbuxhj44&format=png&color=000000" target="_blank"width="50" height="50" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
