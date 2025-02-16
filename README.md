@@ -26,7 +26,7 @@
     <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" target="_blank"width="50" height="50" />
   </a>
   <a href="https://github.com/engineeringwithprashant" target="_blank">
-     <img src="https://img.icons8.com/?size=100&id=TZDxXbuxhj44&format=png&color=000000" target="_blank"width="50" height="50" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.icons8.com/?size=100&id=w_qRMJOKoZGs&format=png&color=000000"width="50" height="50" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
